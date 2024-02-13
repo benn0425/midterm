@@ -46,3 +46,29 @@ h1 {
     font-size: 0.85rem;
     margin-bottom: 0;
 }
+
+figure {
+    margin-top: 1.25em;
+    margin-bottom: 1.25em;
+}
+
+figcaption {
+    font-size: 0.75em;
+    text-align: center;
+    color: #757575;
+    font-style: italic;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+a {
+   color: #1a1a1a; 
+}
+
+a:hover {
+    text-decoration: none;
+    color: #ff3530
+}
