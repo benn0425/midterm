@@ -12,7 +12,7 @@ header, footer {
 }
 
 img {
-    width: 100%
+    width: 100%;
 }
 
 .logo {
@@ -50,6 +50,8 @@ h1 {
 figure {
     margin-top: 1.25em;
     margin-bottom: 1.25em;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 figcaption {
